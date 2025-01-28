@@ -1,1 +1,3 @@
-# CS121_Project_3
+# CS121-Project-3
+
+### (lab) OOP horse race
