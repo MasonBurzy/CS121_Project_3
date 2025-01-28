@@ -7,12 +7,12 @@
 // start main
 
 int main(){
-	std::string userName
+	std::string userName;
 	
 	std::cout << "Hi, please enter in your name. ";
 	std::cin >> userName;
 
-	std::cout << "Hello " << userName << ". Nice to meet you. " << std::end1;
+	std::cout << "Hello " << userName << ". Nice to meet you. " << std::endl;
 
 	return 0;
 
